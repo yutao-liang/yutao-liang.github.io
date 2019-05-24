@@ -6,7 +6,7 @@
 		
 	//typed activate
     $('.header-inner h6').typed({
-        strings: ["爱生活", "爱编程", "爱媳妇"],
+        strings: ["爱生活", "爱编程"],
         loop: true,
         startDelay: 1000,
         backDelay: 1000,
